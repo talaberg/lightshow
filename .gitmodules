@@ -1,0 +1,6 @@
+[submodule "JUCE"]
+	path = JUCE
+	url = https://github.com/talaberg/JUCE.git
+[submodule "Oscvst"]
+	path = Oscvst
+	url = https://github.com/talaberg/Oscvst.git
